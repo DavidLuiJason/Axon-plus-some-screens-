@@ -1,6 +1,6 @@
 {
  "version": 2,
- "seal": "5db6824edf4611ca583a9b0d2f12f6a015f11d47152481acf9eeea145cbf3fb1",
+ "seal": "e3244087cbbeeda0043868ac2e8e38fc2cb85941051caff21179a40019373bac",
  "dictionaries": [
   "public/dictionary/en"
  ],
@@ -507,6 +507,63 @@
   "src/components/editors/ZoomStage.tsx": {
    "bytes": 8511
   },
+  "src/components/toolScreens/CalculatorScreen.tsx": {
+   "bytes": 5234
+  },
+  "src/components/toolScreens/CaseConverterScreen.tsx": {
+   "bytes": 2822
+  },
+  "src/components/toolScreens/DateCalculatorScreen.tsx": {
+   "bytes": 10788
+  },
+  "src/components/toolScreens/EncoderDecoderScreen.tsx": {
+   "bytes": 4800
+  },
+  "src/components/toolScreens/FindReplaceScreen.tsx": {
+   "bytes": 5932
+  },
+  "src/components/toolScreens/HashToolScreen.tsx": {
+   "bytes": 10889
+  },
+  "src/components/toolScreens/JsonViewerScreen.tsx": {
+   "bytes": 19019
+  },
+  "src/components/toolScreens/LoanCalculatorScreen.tsx": {
+   "bytes": 12948
+  },
+  "src/components/toolScreens/NumberToWordsScreen.tsx": {
+   "bytes": 3452
+  },
+  "src/components/toolScreens/PasswordGeneratorScreen.tsx": {
+   "bytes": 7208
+  },
+  "src/components/toolScreens/PatternTesterScreen.tsx": {
+   "bytes": 20644
+  },
+  "src/components/toolScreens/PercentageHelperScreen.tsx": {
+   "bytes": 8335
+  },
+  "src/components/toolScreens/RandomPickerScreen.tsx": {
+   "bytes": 9408
+  },
+  "src/components/toolScreens/SortLinesScreen.tsx": {
+   "bytes": 6105
+  },
+  "src/components/toolScreens/SplitBillScreen.tsx": {
+   "bytes": 11584
+  },
+  "src/components/toolScreens/TextCleanerScreen.tsx": {
+   "bytes": 6999
+  },
+  "src/components/toolScreens/TextCompareScreen.tsx": {
+   "bytes": 9747
+  },
+  "src/components/tools/ToolParts.tsx": {
+   "bytes": 16475
+  },
+  "src/components/tools/ToolScreenShell.tsx": {
+   "bytes": 1285
+  },
   "src/crash/crashLog.ts": {
    "bytes": 8710
   },
@@ -755,6 +812,9 @@
   },
   "src/tools/imageEdit/viewTransform.ts": {
    "bytes": 6925
+  },
+  "src/tools/screens/registry.ts": {
+   "bytes": 3057
   },
   "src/tools/shared/opHistory.ts": {
    "bytes": 1024
